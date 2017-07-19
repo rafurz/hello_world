@@ -3,7 +3,7 @@
 I'm studying IT with specialization in programming at Wroclaw School of Information Technology.
 Sometimes I will throw some projects.
 
-Markup :'int main();
+int 'main()'
 {
   if (youHaveAnyProblems == true)
   {
@@ -13,4 +13,4 @@ Markup :'int main();
   {
     return allIsGood;
   }
-}'
+}
