@@ -8,7 +8,7 @@ int main()
 {
   if (youHaveAnyProblems == true)
   {
-   emailMe(rafurz@gmail.com);
+   emailMe(#rafurz@gmail.com#);
   }
   else
   {
