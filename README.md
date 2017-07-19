@@ -3,7 +3,7 @@
 I'm studying IT with specialization in programming at Wroclaw School of Information Technology.
 Sometimes I will throw some projects.
 
-'''
+'''javascript
 int main()
 {
   if (youHaveAnyProblems == true)
